@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SHUBHAM JOSHI
 - 👀 I’m interested in DATA SCIENCE
-- 🌱 I’m currently Working as Junior Marketing Analyst
+- 🌱 I’m currently Working as Senior Data/ETL  Analyst
 - 💞️ I’m looking to collaborate on Autonations , Machine Learning, Lead Scoring, Predective model buildings
 - 📫 joshi233sj@gmail.com
 
